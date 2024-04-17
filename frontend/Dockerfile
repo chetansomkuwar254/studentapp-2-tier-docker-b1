@@ -1,6 +1,6 @@
 FROM centos:7
 LABEL APP="StudentappFE"
-LABEL DevopsEngg="Anup"
+LABEL DevopsEngg="Jarvis"
 
 
 RUN yum install httpd -y
